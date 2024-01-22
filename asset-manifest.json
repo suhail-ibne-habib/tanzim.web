@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tanzim.lotosbd.com/static/css/main.e2373eea.css",
+    "main.js": "/tanzim.lotosbd.com/static/js/main.46039928.js",
+    "static/js/787.048de561.chunk.js": "/tanzim.lotosbd.com/static/js/787.048de561.chunk.js",
+    "static/media/Bg-two.png": "/tanzim.lotosbd.com/static/media/Bg-two.9608f30081644f9a6736.png",
+    "static/media/car-worldicon.png": "/tanzim.lotosbd.com/static/media/car-worldicon.3b081389c7786cedafab.png",
+    "static/media/tree.png": "/tanzim.lotosbd.com/static/media/tree.35cb72e06b62660a6f4c.png",
+    "static/media/background.jpg": "/tanzim.lotosbd.com/static/media/background.91865f906a56accf098f.jpg",
+    "static/media/ghor-icon.png": "/tanzim.lotosbd.com/static/media/ghor-icon.6cf00d092457681ac9fd.png",
+    "static/media/fr-floating.jpeg": "/tanzim.lotosbd.com/static/media/fr-floating.8abec15422680ee38527.jpeg",
+    "static/media/nl-floating.jpeg": "/tanzim.lotosbd.com/static/media/nl-floating.02ec6f21a8f4b788d054.jpeg",
+    "static/media/floating-img.jpg": "/tanzim.lotosbd.com/static/media/floating-img.45c1b27b9fef47d11458.jpg",
+    "index.html": "/tanzim.lotosbd.com/index.html",
+    "main.e2373eea.css.map": "/tanzim.lotosbd.com/static/css/main.e2373eea.css.map",
+    "main.46039928.js.map": "/tanzim.lotosbd.com/static/js/main.46039928.js.map",
+    "787.048de561.chunk.js.map": "/tanzim.lotosbd.com/static/js/787.048de561.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2373eea.css",
+    "static/js/main.46039928.js"
+  ]
+}
